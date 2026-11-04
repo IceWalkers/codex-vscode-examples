@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Update documentation",
+    "status": "done",
+    "priority": 3
+  },
+  {
+    "id": 2,
+    "title": "Fix login error",
+    "status": "open",
+    "priority": 2
+  },
+  {
+    "id": 3,
+    "title": "Review release notes",
+    "status": "open",
+    "priority": 1
+  },
+  {
+    "id": 4,
+    "title": "Audit dependencies",
+    "status": "open",
+    "priority": 1
+  }
+]
